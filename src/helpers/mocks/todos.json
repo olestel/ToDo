@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "title": "First",
+        "description": "This is the first task",
+        "done": false
+    },
+    {
+        "id": "2",
+        "title": "Second",
+        "description": "This is the second task",
+        "done": false
+    }
+]
